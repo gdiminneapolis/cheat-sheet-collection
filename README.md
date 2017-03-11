@@ -18,4 +18,4 @@ just a bunch of other semi-useful stuff.
 * [Standardista  CSS3, JS  HTML5 explained](http://www.standardista.com/)
 * [CSS Reference - A free visual guide to CSS](http://cssreference.io/)
 * [Convert Photoshop Drop Shadows to CSS3 Box and Text Shadows](http://melanieceraso.com/psd-to-css3/)
-* [147 Colors  CSS Color Names](http://www.colors.commutercreative.com/grid/)
+* [147 Color Names](http://www.colors.commutercreative.com/grid/)
