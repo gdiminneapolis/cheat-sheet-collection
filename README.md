@@ -7,6 +7,8 @@ just a bunch of other semi-useful stuff.
 
 * [JavaScript](http://www.cheat-sheets.org/sites/javascript.su/)
 * [10 Must Have JavaScript Cheat Sheets](https://www.sitepoint.com/10-javascript-cheat-sheets/)
+* [29 Must-Have Cheat Sheets for Web Designers](http://blog.sellfy.com/cheat-sheets-for-web-designers/)
+
 
 ## Books
 
@@ -20,3 +22,7 @@ just a bunch of other semi-useful stuff.
 * [Convert Photoshop Drop Shadows to CSS3 Box and Text Shadows](http://melanieceraso.com/psd-to-css3/)
 * [HTML Color Codes](http://htmlcolorcodes.com/)
 * [147 Color Names](http://www.colors.commutercreative.com/grid/)
+
+* [Bootstrap 3](http://creativealive.com/master-cheat-sheet-twitter-bootstrap-3-pdf-download/)
+* [Bootstrap 3 Classes List With Description - Bootstrap Cheat Sheet](https://bootstrapcreative.com/resources/bootstrap-3-css-classes-index/)
+* [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
