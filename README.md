@@ -29,6 +29,8 @@ just a bunch of other semi-useful stuff.
 * [Bootstrap 3 Classes List With Description - Bootstrap Cheat Sheet](https://bootstrapcreative.com/resources/bootstrap-3-css-classes-index/)
 * [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 
+* [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+
 
 -----
 
